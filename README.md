@@ -121,6 +121,3 @@ No single technique solves all of this. But uncertainty estimation, interpretabi
 - Ovadia, Y. et al. (2019). Can You Trust Your Model's Uncertainty? *NeurIPS*.
 - Wang, M. & Deng, W. (2018). Deep Visual Domain Adaptation: A Survey. *Neurocomputing*.
 
----
-
-MIT License
